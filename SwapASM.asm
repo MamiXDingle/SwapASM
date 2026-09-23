@@ -1,0 +1,7 @@
+LOD X
+STO Z
+LOD Y
+STO X
+LOD Z
+STO Y
+HLT
